@@ -1,5 +1,4 @@
-*.png
 vlfeat-0.9.21-bin/
 Data/
-*.ply
+plyfiles/
 .idea/
